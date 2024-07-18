@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raedabusada
-- 👀 I’m interested in Java - React - React Native - Dor Net
+- 👀 I’m interested in Java - React - React Native - Dot Net
 - 🌱 I’m currently learning - free lancing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ raed.webdeveloper@gmail.com
